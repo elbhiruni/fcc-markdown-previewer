@@ -6,7 +6,7 @@ import GitHubIcon from "./GitHubIcon.vue";
   <footer>
     <a
       class="icon"
-      href="http://github.com/elbhiuni/fcc-markdown-previewer"
+      href="http://github.com/elbhiruni/fcc-markdown-previewer"
       target="_blank"
       rel="noopener noreferrer"
       ><GitHubIcon
